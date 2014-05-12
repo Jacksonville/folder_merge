@@ -24,5 +24,4 @@ positional arguments:
 optional arguments:
   -h, --help   show this help message and exit
 
-When source an destination paths are passed to this process the result is
-files that are named in a similar manner
+Good luck :)
