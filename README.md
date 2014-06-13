@@ -24,7 +24,8 @@ positional arguments:
 optional arguments:
   -h, --help   show this help message and exit
 
-Good luck :)```
+Good luck :)
+```
 
 ###Edit:
 So it turns out that the date modified is not as reliable as I had hoped.
