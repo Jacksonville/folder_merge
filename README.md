@@ -25,3 +25,8 @@ optional arguments:
   -h, --help   show this help message and exit
 
 Good luck :)```
+
+###Edit:
+So it turns out that the date modified is not as reliable as I had hoped.
+Using the pyexiv2 library I am trying to get the metadata for the file, one field of which is the datestamp.
+http://tilloy.net/dev/pyexiv2/download.html
